@@ -1,16 +1,16 @@
 {
     "name": "cherry-pickr",
+    "description": "",
     "dependencies": {
         "device": "*"
     },
-    "description": "",
     "files": [
         "main.ts",
         "README.md",
         "main.blocks"
     ],
-    "preferredEditor": "blocksprj",
     "testFiles": [
         "test.ts"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
